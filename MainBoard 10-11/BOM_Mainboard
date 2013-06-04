@@ -1,0 +1,45 @@
+Partlist exported from C:/Users/Chris/Documents/My Dropbox/eagle/MainBoard 10-11/MainBoard 10-11 ver.1.sch at 25/03/2011 8:14:05 AM
+
+Part        Value              Device             Package            Description                                                    
+C2          1u                 CAP_POL1206        EIA3216            Capacitor Polarized                                            
+C3          470p               C-EUC1206          C1206              CAPACITOR, European symbol                                     
+C4          39p                C-EUC1206          C1206              CAPACITOR, European symbol                                     
+C5          1u                 CAP_POL1206        EIA3216            Capacitor Polarized                                            
+C6          39p                C-EUC1206          C1206              CAPACITOR, European symbol                                     
+D1          1N5817-B           1N5817-B           DO41-7.6           1.0A SCHOTTKY BARRIER RECTIFIER                                
+DEPTH                          M03POLAR           MOLEX-1X3          Header 3                                                       
+E_STOP                         M03POLAR           MOLEX-1X3          Header 3                                                       
+F1          1A                 SHK20L             SHK20L             FUSE HOLDER 5 x 20 mm, SH contact, SHH1 Schukat, E1073 Buerklin
+IMU/DEPTH                      M09HP              M09HP              SUB-D                                                          
+JP1                            M06POLAR           MOLEX-1X6          Header 6                                                       
+JP2         STAND-OFF          STAND-OFF          STAND-OFF          Stand Off                                                      
+JP3         STAND-OFF          STAND-OFF          STAND-OFF          Stand Off                                                      
+JP4         STAND-OFF          STAND-OFF          STAND-OFF          Stand Off                                                      
+JP5         STAND-OFF          STAND-OFF          STAND-OFF          Stand Off                                                      
+JP_SD                          M07LOCK            1X07_LOCK          Header 7                                                       
+LED5V       5mm                LED5MM             LED5MM             LEDs                                                           
+LEDOFF                         LEDCHIP-LED0603    CHIP-LED0603       LED                                                            
+LEDON                          LEDCHIP-LED0603    CHIP-LED0603       LED                                                            
+MAX3110     MAX3110            MAX3110            SO28L                                                                             
+MOD5270     MOD5270            MOD5270            MOD5270            Coldfire MOD5270                                               
+MTRCONTR                       M09HP              M09HP              SUB-D                                                          
+PROG_HEADER                    M06LOCK_LONGPADS   1X06_LOCK_LONGPADS Header 6                                                       
+Q1          3.6864MHz          CRYSTALSM49        SM49               CRYSTAL                                                        
+Q2          MOSFET-NCHANNELPTH MOSFET-NCHANNELPTH TO-92                                                                             
+Q3          MOSFET-NCHANNELPTH MOSFET-NCHANNELPTH TO-92                                                                             
+R1          10k                RESISTOR1206       1206               Resistor                                                       
+R2          10k                RESISTOR1206       1206               Resistor                                                       
+R3          10k                RESISTOR1206       1206               Resistor                                                       
+RBIAS       1M                 RESISTOR1206       1206               Resistor                                                       
+RLED5V      1k                 RESISTOR1206       1206               Resistor                                                       
+RLEDOFF     1k                 RESISTOR1206       1206               Resistor                                                       
+RLEDON      1k                 RESISTOR1206       1206               Resistor                                                       
+R_ES1       4.7k               RESISTOR1206       1206               Resistor                                                       
+R_ES2       4.7k               RESISTOR1206       1206               Resistor                                                       
+R_IRQ       1k                 RESISTOR1206       1206               Resistor                                                       
+S1                             SWITCH-SPST        SWITCH-3PIN-5.47   SPST Switch                                                    
+TC1265      TC1265             TC1265             SO-08                                                                             
+TXB0101-1   TXB0102            TXB0102            SOP-08                                                                            
+TXB0102-2   TXB0102            TXB0102            SOP-08                                                                            
+U$2         SD_CARD            SD_CARD            SD_CARD                                                                           
+X3                             KK-156-2           KK-156-2           KK 156 HEADER                                                  
