@@ -1,5 +1,5 @@
 [Eagle]
-Version="05 12 00"
+Version="05 11 00"
 Platform="Linux"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
@@ -92,12 +92,12 @@ Sheet=1
 
 [Win_3]
 Type="Control Panel"
-Loc="64 407 663 806"
+Loc="64 344 663 743"
 State=2
 Number=0
 
 [Desktop]
-Screen="2560 1024"
+Screen="1360 768"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
