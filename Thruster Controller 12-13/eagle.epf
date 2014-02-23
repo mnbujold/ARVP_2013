@@ -10,6 +10,7 @@ AutoSaveProject=1
 UsedLibrary="/home/mikeb/ARVP_Parts_Libraries/ARVP.lbr"
 
 [Win_1]
+<<<<<<< HEAD
 Type="Schematic Editor"
 Loc="0 27 507 476"
 State=1
@@ -90,13 +91,17 @@ PadsSameType=0
 Layer=21
 
 [Win_3]
+=======
+>>>>>>> e1d33e00bfc634775200f30175b76bf69cc039e2
 Type="Control Panel"
 Loc="0 0 599 399"
 State=2
 Number=0
 
 [Desktop]
+<<<<<<< HEAD
 Screen="1360 768"
+=======
+Screen="1280 1024"
+>>>>>>> e1d33e00bfc634775200f30175b76bf69cc039e2
 Window="Win_1"
-Window="Win_2"
-Window="Win_3"

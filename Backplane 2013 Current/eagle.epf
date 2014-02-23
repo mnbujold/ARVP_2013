@@ -7,6 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+<<<<<<< HEAD
 UsedLibrary="E:/Link to ARVP_Parts_Libraries/ARVP.lbr"
 
 [Win_1]
@@ -19,6 +20,13 @@ Number=0
 Type="Schematic Editor"
 Loc="44 74 643 473"
 State=1
+=======
+
+[Win_1]
+Type="Schematic Editor"
+Loc="33 90 482 574"
+State=2
+>>>>>>> e1d33e00bfc634775200f30175b76bf69cc039e2
 Number=2
 File="Backplane 2013.sch"
 View="-2467751 222354 -715459 1116608"
@@ -56,6 +64,7 @@ Layer=91
 Views=" 1: -2467751 222354 -715459 1116608"
 Sheet=1
 
+<<<<<<< HEAD
 [Win_3]
 Type="Board Editor"
 Loc="22 52 621 451"
@@ -100,3 +109,15 @@ Screen="1360 644"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
+=======
+[Win_2]
+Type="Control Panel"
+Loc="95 298 694 697"
+State=2
+Number=0
+
+[Desktop]
+Screen="1020 782"
+Window="Win_1"
+Window="Win_2"
+>>>>>>> e1d33e00bfc634775200f30175b76bf69cc039e2
